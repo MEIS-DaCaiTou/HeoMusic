@@ -1,8 +1,8 @@
-console.log("\n %c HeoMusic 开源静态音乐播放器 %c https://github.com/zhheo/HeoMusic \n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;")
+console.log("\n %c HeoMusic 开源静态音乐播放器 %c https://github.com/MEIS-DaCaiTou/HeoMusic \n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;")
 var local = false;
 
 if (typeof userId === 'undefined') {
-  var userId = "8152976493"; // 替换为实际的默认值
+  var userId = "13334173322"; // 替换为实际的默认值
 }
 if (typeof userServer === 'undefined') {
   var userServer = "netease"; // 替换为实际的默认值
